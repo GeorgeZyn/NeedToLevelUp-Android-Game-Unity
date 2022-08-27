@@ -4,3 +4,5 @@ A game about developing your tank, you need to level up by exploring the map. Le
 Игра про развитие вашего танка, вам нужно поднимать уровень, исследуя карту. Узнайте о разных путях развития в этой игре. Игру можна проходить много раз и вы будете узнавать о новом контенте каждый раз.
 
 itch: https://sigma-g.itch.io/need-to-level-up
+
+youtube: https://www.youtube.com/watch?v=QwdujIFSsds&ab_channel=GeorgeGameDev
